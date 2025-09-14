@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Drew <br> [IT Professional](#it-professional) & [Programmer](#programmer)
+# Hi, I'm Drew <br> [Cybersecurity Professional](#cyber-professional) & [Programmer](#programmer)
 
 </div>
 
-<a name="it-professional"></a>
+<a name="cyber-professional"></a>
 ## 🔐 Cybersecurity and 🖥️ IT
 
 - <b>SOC Automation & Threat Detection</b>
