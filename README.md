@@ -17,10 +17,9 @@
   
 ## 📜 Certifications
 
- <br>
-![Certified Scrum Master ( CSM ) ](https://www.scrumalliance.org/badges/sa-csm-600.png) <br>
-![Microsoft Azure Fundamentals Certification ( AZ-900 ) ]
-![Oracle Certified Expert Web Services Developer ( J2EE 6 )]
-![Oracle Certified Java Programmer(OCJP6)]
-![Oracle Certified Web Component Developer (OCWCD5)]
-![Oracle Certified Professional  (OCP-Database10g)]
+- <b> [Certified Scrum Master ( CSM )] </b>
+- <b> [Microsoft Azure Fundamentals Certification ( AZ-900 )] </b>
+- <b> [Oracle Certified Expert Web Services Developer ( J2EE 6 )] </b>
+- <b> [Oracle Certified Java Programmer(OCJP6)] </b>
+- <b> [Oracle Certified Web Component Developer (OCWCD5)] </b>
+- <b> [Oracle Certified Professional  (OCP-Database10g)] </b>
