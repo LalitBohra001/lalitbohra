@@ -14,6 +14,7 @@
 - <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
    
 - <b>Python</b>
+- <b>Shell Script</b>
   
 ## 📜 Certifications
 
