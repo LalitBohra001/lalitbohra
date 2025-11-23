@@ -11,7 +11,7 @@
 ## ⌨ Software Development
 
 - <b>3DExpirence Development ( 2019x, 2024x, JPO, TCL , Trigger, 3Dashboard, Restful webservice, Enginering central , Program central )</b>
-- <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven, & Docker)</b>
+- <b>Full Stack Development (Java, Spring Boot, Angular, SQL, Maven)</b>
    
 - <b>Python</b>
 - <b>Shell Script</b>
